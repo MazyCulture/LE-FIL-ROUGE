@@ -2,16 +2,16 @@
 
 ## Questions
 
-* Describe your target audience them to your visitors?
+* Décrivez votre audiance ciblée.
 
-* What are your corporate core values and how do you express?
+* Quelles sont les valeurs principales et comment vous les exprimez à vos visiteurs?
 
-* Do you have specific company colors that need to be used?
+* Avez-vous des couleurs spécifiques qui ont besoin d'être utilisées?
 
-* Are there any websites with designs that you like?
+* Avez-vous des disigns de sites que vous aimeriez? 
 
-* Do you have any specific mobile requirements?
+* Avez vous des besoins requis pour mobile?
 
-* Do you need multu-language support?
+* Avez vous besoin d'un support multi-language?
 
-* What is the purpose of the website?
+* Quel est le but du site?
