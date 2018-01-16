@@ -2,8 +2,7 @@
 
 ## Projet
 Création d'un site 'one page' pour une association visant à accueillir des artistes, groupes ou simplement des évènements dans une sale de festivité à Mazy (Région Namuroise).
-[https://ezaaii.github.io/OnePager/index.html][Lien vers le OnePager]
-
+[Lien vers le OnePager](https://ezaaii.github.io/OnePager/index.html)
 
 ## Questions pour le client
 
