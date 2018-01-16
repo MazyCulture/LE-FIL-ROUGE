@@ -1,6 +1,11 @@
 # LE-FIL-ROUGE
 
-## Questions
+## Projet
+Création d'un site 'one page' pour une association visant à accueillir des artistes, groupes ou simplement des évènements dans une sale de festivité à Mazy (Région Namuroise).
+[https://ezaaii.github.io/OnePager/index.html][Lien vers le OnePager]
+
+
+## Questions pour le client
 
 * Quel est le but du site?
 
