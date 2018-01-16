@@ -13,41 +13,34 @@ La salle comprend une scène, un bar et une cuisine. Possibilité d'organiser de
 ## Questions pour le client
 Avoir le meme site mais en plus jolie et plus facile a utiliser
 * Quel est le but du site?
-
-
-* Que souhaitez vous accomplir avec votre site?
-
+Promouvoir les artistes et les évènements se déroulant à Mazy. Et surtout proposer un lieu où organiser des évènements, que ce soit concerts, fêtes ou diners.
 
 * Décrivez votre audiance ciblée.
+Les artistes voulant se produire quelque part, les particuliers qui souhaitent louer une salle pour leur évènements.
 
-
-* Quelles sont les valeurs principales et comment vous les exprimez à vos visiteurs?
-Description de ce que c'est, d'ou c'est, de ce que c'est, de qui on peut inviter, ce qu'on peut y faire?
+* Quelles sont les informations principales et comment vous les exprimez à vos visiteurs?
+Description de ce qu'est Mazy Culture, où ça se trouve, qui on peut inviter et ce qu'on peut y faire?
 
 * Avez-vous un charte graphique qui a besoin d'être utilisée?
-
+Il faudrait rester dans un ton blanc/gris(primaire) et bordeaux (secondaire)
 
 * Avez-vous des designs de sites que vous aimeriez? 
-NON
+Non pas de design particulier en tête.
 
-* Avez vous des besoins requis pour mobile?
-Rien de plus, à part la créa de compte et gerer les events.
+* Quels sont les fonctionnalités prévues pour le site?
+- Accessibilité : Pouvoir faire une candidature depuis le site qui calcule automatiquement le tarif. Avoir un calendrier qui s'affiche dans le site et la possibilité d'ajouter des évènements. Créer un compte admin pour gérer le site.
+- Galerie photo : plus agréable a regarder. Retravailler.
+- Events : dynamique, pouvoir en ajouter et en supprimer. pareil pour concerts.
+- Onglet devenir coop: Améliorer le design.
+- Ne pas avoir n'importe qui qui puisse envoyer sa candidature. Possibilité de gérer les candidatures. Ajouter une authentification lors de l'inscription(pas de robots ou de faux comptes)
 
-* Quel est votre budget?
+* Avez vous des besoins requis pour l'appli mobile?
+Rien de plus, à part la création de compte et la possibilité de gérer les events.
 
-
-* Wordpress?
+* Utilisation de Wordpress? (à voir si c'était pas un troll de Bertrand)
 WIX avec und DB
 
-* quel ton utiliser pour parler aux clients?
-un "vous" mais pas trop formel
+* Quel ton utiliser pour parler aux clients?
+Un "vous" mais pas trop formel
 
 
--Accessibilité : mettre candidature depuis le site, sans avoir un calendrier qui s'affiche dans le site. Un compte admin pour gérer.
--galerie photo : plus agréable a regarder. Retravailler.
--events : dynamique, pouvoir en ajouter et en supprimer. pareil pour concerts.
--onglet devenir coop: same
--faire calcul automatique en fonction de ce qu'on veut.
--pas avoir n'importe qui qui puisse envoyer sa candidature avec une authentification
-
--charte graphique : rester dans un ton blanc (primaire) bordeaux (secondaire)
