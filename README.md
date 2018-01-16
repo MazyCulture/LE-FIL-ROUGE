@@ -5,9 +5,9 @@ Création d'un site 'one page' pour une association visant à accueillir des art
 L'association compte plusieurs partenaires.
 La salle comprend une scène, un bar et une cuisine. Possibilité d'organiser des concerts, rassemblements, mariages, etc.
 
-* [Lien vers le site de Mazy Culture](http://www.mazyculture.org/)
-* [Lien vers le OnePager](https://ezaaii.github.io/OnePager/index.html)
-* [Lien vers le Repo](https://github.com/Ezaaii/OnePager)
+* [Le site de Mazy Culture](http://www.mazyculture.org/)
+* [Le OnePager par Nico](https://ezaaii.github.io/OnePager/index.html)
+* [Le Repo du OnePager](https://github.com/Ezaaii/OnePager)
 * [Lien vers le google analytics](https://analytics.google.com/analytics/web/#embed/report-home/a112538168w167729326p167921634/)
 * Mail pour se connecter : becodegroupe3@gmail.com
 
