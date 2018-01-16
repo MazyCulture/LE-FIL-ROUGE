@@ -8,10 +8,12 @@
 
 * Avez-vous des couleurs spécifiques qui ont besoin d'être utilisées?
 
-* Avez-vous des disigns de sites que vous aimeriez? 
+* Avez-vous des designs de sites que vous aimeriez? 
 
 * Avez vous des besoins requis pour mobile?
 
 * Avez vous besoin d'un support multi-language?
 
 * Quel est le but du site?
+
+* Quel est votre budget?
