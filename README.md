@@ -5,6 +5,8 @@ Création d'un site 'one page' pour une association visant à accueillir des art
 
 * [Lien vers le OnePager](https://ezaaii.github.io/OnePager/index.html)
 * [Lien vers le Repo](https://github.com/Ezaaii/OnePager)
+* [Lien vers le google analytics](https://analytics.google.com/analytics/web/#embed/report-home/a112538168w167729326p167921634/)
+* Mail pour se connecter : becodegroupe3@gmail.com
 
 ## Questions pour le client
 
