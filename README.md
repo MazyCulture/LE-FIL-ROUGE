@@ -44,13 +44,11 @@ Non pas de design particulier en tête.
 ``
 * **Quels sont les fonctionnalités prévues pour le site?**
 
-``
     - Accessibilité : Pouvoir faire une candidature depuis le site qui calcule automatiquement le tarif. Avoir un calendrier qui s'affiche dans le site et la possibilité d'ajouter des évènements. Créer un compte admin pour gérer le site.
     - Galerie photo : plus agréable a regarder. Retravailler.
     - Events : dynamique, pouvoir en ajouter et en supprimer. pareil pour concerts.
     - Onglet devenir coop: Améliorer le design.
     - Ne pas avoir n'importe qui qui puisse envoyer sa candidature. Possibilité de gérer les candidatures. Ajouter une authentification lors de l'inscription(pas de robots ou de faux comptes)
-``
 * **Avez vous des besoins requis pour l'appli mobile?**
 
 ``
