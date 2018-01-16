@@ -4,6 +4,8 @@
 
 * Quel est le but du site?
 
+* Que souhaitez vous accomplir avec votre site?
+
 * Décrivez votre audiance ciblée.
 
 * Quelles sont les valeurs principales et comment vous les exprimez à vos visiteurs?
