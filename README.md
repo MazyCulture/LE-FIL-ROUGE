@@ -68,3 +68,5 @@ WIX avec und DB
 Un "vous" mais pas trop formel
 ``
 
+## Structure du site
+![Image de la structure](https://github.com/Ezaaii/LE-FIL-ROUGE/blob/master/imagestructure.png)
