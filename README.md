@@ -72,4 +72,4 @@ Un "vous" mais pas trop formel
 ![Image de la structure](https://github.com/Ezaaii/LE-FIL-ROUGE/blob/master/imagestructure.png)
 
 ## Charte graphique
-![Charte graphique pour le site de mazy](https://github.com/Ezaaii/LE-FIL-ROUGE/blob/master/charte.jpeg)
+![Charte graphique pour le site de mazy](https://github.com/Ezaaii/LE-FIL-ROUGE/blob/master/charte2.jpeg)
