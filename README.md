@@ -1,10 +1,12 @@
 # LE-FIL-ROUGE
 
 ## Projet
+### Le client
 Création d'un site 'one page' pour une association visant à accueillir des artistes, groupes de musique ou simplement des évènements dans une sale de festivité à Mazy (Région Namuroise).
 L'association compte plusieurs partenaires.
 La salle comprend une scène, un bar et une cuisine. Possibilité d'organiser des concerts, rassemblements, mariages, etc.
 
+### Liens
 * [Le site de Mazy Culture](http://www.mazyculture.org/)
 * [Le OnePager par Nico](https://ezaaii.github.io/OnePager/index.html)
 * [Le Repo du OnePager](https://github.com/Ezaaii/OnePager)
