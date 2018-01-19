@@ -2,9 +2,15 @@
 
 ## Projet
 ### Le client
-Mazy culutre est une association visant à accueillir des artistes, groupes de musique ou simplement des évènements dans une sale de festivité à Mazy (Région Namuroise).
+Mazy culture est une association visant à accueillir des artistes, groupes de musique ou simplement des évènements dans une sale de festivité à Mazy (Région Namuroise).
 L'association compte plusieurs partenaires.
 La salle comprend une scène, un bar et une cuisine. Possibilité d'organiser des concerts, rassemblements, mariages, etc.
+
+### Le groupe
+* [Marie-ange](https://github.com/mabocoding)
+* [Kevin](https://github.com/ksomao)
+* [Antoine](https://github.com/GjeloshajAntoine)
+* [Nico](https://github.com/Ezaaii)
 
 ### Liens
 * [Le site de Mazy Culture](http://www.mazyculture.org/)
