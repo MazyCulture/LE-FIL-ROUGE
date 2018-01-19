@@ -25,7 +25,7 @@ Avoir le même site mais en plus joli et plus facile a utiliser.
 ``
 Promouvoir les artistes et les évènements se déroulant à Mazy. Et surtout proposer un lieu où organiser des évènements, que ce soit concerts, fêtes ou diners.
 ``
-* **Décrivez votre audiance ciblée.**
+* **Décrivez votre audience ciblée.**
 
 ``
 Les artistes voulant se produire quelque part, les particuliers qui souhaitent louer une salle pour leur évènements.
@@ -57,11 +57,7 @@ Non pas de design particulier en tête.
 ``
 Rien de plus, à part la création de compte et la possibilité de gérer les events.
 ``
-* **Utilisation de Wordpress? (à voir si c'était pas un troll de Bertrand)**
 
-``
-WIX avec und DB
-``
 * **Quel ton utiliser pour parler aux clients?**
 
 ``
