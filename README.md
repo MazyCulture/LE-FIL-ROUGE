@@ -35,7 +35,7 @@ Les artistes voulant se produire quelque part, les particuliers qui souhaitent l
 ``
 Description de ce qu'est Mazy Culture, où ça se trouve, qui on peut inviter et ce qu'on peut y faire?
 ``
-* **Avez-vous un charte graphique qui a besoin d'être utilisée?**
+* **Avez-vous une charte graphique qui a besoin d'être utilisée?**
 
 ``
 Il faudrait rester dans un ton blanc/gris(primaire) et bordeaux (secondaire)
