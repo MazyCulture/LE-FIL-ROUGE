@@ -18,6 +18,7 @@ La salle comprend une scène, un bar et une cuisine. Possibilité d'organiser de
 * [Le Repo du OnePager](https://github.com/Ezaaii/OnePager)
 * [Lien vers le google analytics](https://analytics.google.com/analytics/web/#embed/report-home/a112538168w167729326p167921634/)
 * Mail pour se connecter : becodegroupe3@gmail.com
+* [Lien de la waitingPage](https://mazyculture.herokuapp.com/)
 
 ## Questions pour le client
 
