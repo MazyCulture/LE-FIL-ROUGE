@@ -67,9 +67,9 @@ if($email!==""){
         </section>
   </main>
   <footer class="footer">
-    <a href="#"><img src="assets/img/facebook-logo.png" alt="suivez nous sur facebook"></a>
-    <a href="#"><img src="assets/img/twitter.png" alt="suivez nous sur twitter"></a>
-    <a href="#"><img src="assets/img/instagram.png" alt="suivez nous sur instagram"></a>
+    <a href="https://www.facebook.com/sallemazyculture/"><img src="assets/img/facebook-logo.png" alt="suivez nous sur facebook"></a>
+    <a href="https://twitter.com/?lang=en"><img src="assets/img/twitter.png" alt="suivez nous sur twitter"></a>
+    <a href="https://www.instagram.com/?hl=en"><img src="assets/img/instagram.png" alt="suivez nous sur instagram"></a>
   </footer>
 
 </div>
