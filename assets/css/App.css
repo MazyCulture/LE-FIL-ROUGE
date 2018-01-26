@@ -142,8 +142,149 @@ img{
   margin-right: 31px
 }
 
-@media screen and (max-width: 863px) {
 
+@media screen and (max-width: 840px){
+  *{
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+ background: url(../img/newsletter.jpeg) no-repeat fixed 0 0;
+ background-size: cover;
+ height: 100vh;
+ width: 100vw;
+ color:white;
+ font-family: 'Open Sans', sans-serif;
+
+}
+
+.hover{
+height: 100%;
+width: auto;
+background-color: rgba(15,13,13,0.5);
+}
+
+.header{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding-top: 20px;
+  padding-bottom: 13px;
+}
+.commingSoon{
+  font-size: 52px;
+  font-family: 'Galada', cursive;
+  margin-bottom: 15px;
+  letter-spacing: 2px;
+  font-weight: lighter;
+}
+.brand{
+  font-size: 82px;
+  color: #FFBDBD;
+  font-family: 'Denk One', sans-serif;
+  letter-spacing: 4px;
+  font-weight: lighter;
+}
+.main{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.slogan{
+  padding-bottom: 10px;
+}
+.descritpion{
+  padding-top: 16px;
+}
+.sloganText{
+  text-align: center;
+  font-size: 34px;
+  margin-bottom: 10px;
+}
+.separationLine{
+  background-color: white;
+  width: 363px;
+}
+
+p{
+  text-align: center;
+  font-size: 24px;
+}
+.newsletter{
+  margin-top: 15px;
+}
+h4{
+  font-size: 28px;
+  font-weight: bold;
+  text-align: center;
+  letter-spacing: 1px;
+  margin-bottom: 17px;
+}
+
+form{}
+.emailInput{display: flex;justify-content: center;margin-bottom: 30px;padding-left: 10px;padding-right: 10px;}
+
+input{
+  font-family: 'Roboto', sans-serif;
+  width: 78%;
+  height: 44px;
+  padding: 15px 25px;
+  margin: 7px 0;
+  border-bottom-left-radius: 20px;
+  border-top-left-radius: 20px;
+  border-style: solid;
+  border-right-style: solid;
+  border-width: 1px;
+  border-right-width: 1px;
+  border-right: transparent;
+  border-right-color: transparent;
+  border-color: white;
+  font-size: -0;
+}
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: grey;
+    opacity: 0.5; /* Firefox */
+}
+
+button{
+  background-color: transparent;
+  width: 187px;
+  height: 43px;
+  margin-top: 8px;
+  border-style: solid;
+  border-width: 1px;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+  font-family: 'Galada', cursive;
+  color: white;
+  font-size: 31px;
+  cursor: pointer;
+}
+button:active{
+  background-color: grey;
+}
+.footer{
+  display: flex;
+align-items: center;
+justify-content: center;
+
+}
+.footer:last-child.img{
+  margin-right:0;
+}
+a{}
+img{
+  height: 50px;
+  margin-right: 31px
+}
+
+}
+
+@media screen and (max-width: 538px) {
 
   *{
     margin:0;
@@ -152,20 +293,14 @@ img{
   }
 
   body{
-
-  /*background: url(../img/newsletter.jpeg) no-repeat fixed 0 0;*/
-  background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../img/newsletter.jpeg);
-  background-image: linear-gradient(rgba(0, 0, 0, 0.007), rgba(0, 0, 0, 0.7)), url(../img/newsletter.jpeg);
+   background: url(../img/newsletter.jpeg) no-repeat fixed 0 0;
    background-size: cover;
    height: 100vh;
    width: 100vw;
    color:white;
-   font-family:  'Lato', 'Arial', sans-serif;
+   font-family: 'Open Sans', sans-serif;
 
   }
-
-
-
 
   .hover{
   height: 100%;
@@ -182,14 +317,14 @@ img{
     padding-bottom: 13px;
   }
   .commingSoon{
-    font-size: 40px;
+    font-size: 41px;
     font-family: 'Galada', cursive;
-    margin-bottom: 30px;
+    margin-bottom: 15px;
     letter-spacing: 2px;
     font-weight: lighter;
   }
   .brand{
-    font-size: 50px;
+    font-size: 46px;
     color: #FFBDBD;
     font-family: 'Denk One', sans-serif;
     letter-spacing: 4px;
@@ -208,26 +343,28 @@ img{
     padding-top: 16px;
   }
   .sloganText{
-    font-size: 35px;
+    display: none;
+    font-size: 28px;
     text-align: center;
     font-weight: 400;
     margin-bottom: 10px;
   }
   .separationLine{
+    display: none;
     height: 6px;
-  background-color: white;
-  width: 363px;
+    background-color: white;
+    width: 363px;
   }
 
   p{
     text-align: center;
-    font-size: 27px;
+    font-size: 18px;
   }
   .newsletter{
     margin-top: 15px;
   }
   h4{
-    font-size: 31px;
+    font-size: 21px;
     font-weight: bold;
     text-align: center;
     letter-spacing: 1px;
@@ -235,28 +372,24 @@ img{
   }
 
   form{}
-  .emailInput{
-  display: flex;
-  justify-content: center;
-  margin-bottom: 30px;
-  }
+  .emailInput{display: flex;justify-content: center;margin-bottom: 30px;padding-left: 10px;padding-right: 10px;}
 
   input{
     font-family: 'Roboto', sans-serif;
-    width: 74%;
+    width: 78%;
+    height: 44px;
     padding: 15px 25px;
-    margin: 8px 0;
+    margin: 7px 0;
     border-bottom-left-radius: 20px;
     border-top-left-radius: 20px;
     border-style: solid;
-        border-right-style: solid;
+    border-right-style: solid;
     border-width: 1px;
-        border-right-width: 1px;
+    border-right-width: 1px;
     border-right: transparent;
-        border-right-color: transparent;
+    border-right-color: transparent;
     border-color: white;
-    font-size: 25px;
-
+    font-size: -0;
   }
   ::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
       color: grey;
@@ -266,7 +399,7 @@ img{
   button{
     background-color: transparent;
     width: 187px;
-    height: 61px;
+    height: 43px;
     margin-top: 8px;
     border-style: solid;
     border-width: 1px;
@@ -274,11 +407,11 @@ img{
     border-bottom-right-radius: 20px;
     font-family: 'Galada', cursive;
     color: white;
-    font-size: 37px;
+    font-size: 31px;
     cursor: pointer;
   }
   button:active{
-    background-color: rgb(128, 128, 128);
+    background-color: grey;
   }
   .footer{
     display: flex;
@@ -294,4 +427,7 @@ img{
     height: 50px;
     margin-right: 31px
   }
+
+
+
 }
