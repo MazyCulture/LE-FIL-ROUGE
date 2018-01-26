@@ -142,7 +142,8 @@ img{
   margin-right: 31px
 }
 
-@media screen and (max-width: 863) {
+@media screen and (max-width: 863px) {
+
 
   *{
     margin:0;
@@ -293,5 +294,4 @@ img{
     height: 50px;
     margin-right: 31px
   }
-
 }
