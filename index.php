@@ -2,16 +2,17 @@
 include "assets/db/db.php";
 include "assets/methods/methods.php";
 $message="";
-if isset($_POST['email']){
-extract($_POST);
 $db=new db;
+if (isset($_POST['email'])){
+extract($_POST);
   if(check_email_address($email)){
     $db->addEmail($email);
+    $message="Merci de votre participation !";
   }else{
     $message="Votre email n'est pas valide";
   }
 
-    $message="Merci de votre participation !";
+
 
 
 }
