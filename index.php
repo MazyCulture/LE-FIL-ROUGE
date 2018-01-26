@@ -1,19 +1,18 @@
 <?php
 include "assets/db/db.php";
 include "assets/methods/methods.php";
-$email="";
 $message="";
-extract($_GET);
+if isset($_POST['email']){
+extract($_POST);
 $db=new db;
-if($email!==""){
   if(check_email_address($email)){
     $db->addEmail($email);
   }else{
     $message="Votre email n'est pas valide";
   }
 
-    $email="";
     $message="Merci de votre participation !";
+
 
 }
 
@@ -51,7 +50,7 @@ if($email!==""){
         </section>
         <section class="newsletter">
           <h4>inscrivez-vous à notre newsletter et soyez les premiers <br/> informés à la mise en ligne de notre site!</h4>
-          <form action="index.php" method="GET">
+          <form action="index.php" method="POST">
             <div class="emailInput">
               <input
               type="email"
@@ -60,7 +59,7 @@ if($email!==""){
               oninvalid="this.setCustomValidity('Votre adresse est invalide')"
               oninput="setCustomValidity('')"
               />
-              <button onclick="this.form.submit(); this.form.reset()">Notify Me</button>
+              <button>Notify Me</button>
             </div>
             <h4><?php echo $message;?></h4>
           </form>
