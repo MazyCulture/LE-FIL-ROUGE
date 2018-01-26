@@ -60,7 +60,7 @@ if($email!==""){
               oninvalid="this.setCustomValidity('Votre adresse est invalide')"
               oninput="setCustomValidity('')"
               />
-              <button>Notify Me</button>
+              <button onclick="this.form.submit(); this.form.reset()">Notify Me</button>
             </div>
             <h4><?php echo $message;?></h4>
           </form>
