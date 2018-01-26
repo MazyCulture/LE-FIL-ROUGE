@@ -1,6 +1,6 @@
 <?php
-include "assets/db/db.php";
-include "assets/methods/methods.php";
+include "backend/db/db.php";
+include "backend/methods/methods.php";
 $message="";
 $db=new db;
 if (isset($_POST['email'])){
