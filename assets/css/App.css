@@ -85,7 +85,7 @@ form{}
 .emailInput{
 display: flex;
 justify-content: center;
-margin-bottom: 20px;
+margin-bottom: 30px;
 }
 
 input{
@@ -122,8 +122,11 @@ button{
   font-family: 'Galada', cursive;
   color: white;
   font-size: 37px;
+  cursor: pointer;
 }
-
+button:active{
+  background-color: grey;
+}
 .footer{
   display: flex;
 align-items: center;

@@ -51,7 +51,7 @@ if($email!==""){
         </section>
         <section class="newsletter">
           <h4>inscrivez-vous à notre newsletter et soyez les premiers <br/> informés à la mise en ligne de notre site!</h4>
-          <form action="index.php" method="GET">
+          <form action="index.php" method="POST">
             <div class="emailInput">
               <input
               type="email"
